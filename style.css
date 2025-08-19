@@ -99,6 +99,15 @@ section hr {
 
 .attribution {
   margin: 2rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--rose-800)
+}
+
+.attribution a:visited {
+  color: var(--stone-600);
 }
 
 /* INTRO SECTION */

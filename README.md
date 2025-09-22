@@ -13,7 +13,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Recipe page](https://your-solution-url.com)
+- Solution URL: [Recipe page on github pages](https://y-c-y-k-a.github.io/Recipe-page/)
 
 ### Screenshot
 
